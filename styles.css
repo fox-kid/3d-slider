@@ -21,10 +21,17 @@ body {
 }
 
 #scene-3d {
-    border: 4px solid rgb(40, 40, 145);
+    border: 14px solid rgb(123, 231, 145);
+    position: fixed;
+    width: 100%;
     height: 100vh;
 }
 
 .scene-frame {
-    border: 3px solid rgb(45, 113, 45);
+    border: 3px solid rgb(41, 59, 160);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
